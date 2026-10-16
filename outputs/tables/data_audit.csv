@@ -1,0 +1,6 @@
+dataset,rows_after_cleaning,empty_removed,train_rows_leaking_into_dev_or_test_removed,train_duplicates_removed,n_dev,n_test,n_train,n_test_tw
+sentiment,19320,79,170,431,2987.0,3000,13333.0,
+aggression,16566,1,357,241,3001.0,970,11401.0,1194.0
+offensive,2813,1,0,0,281.0,563,1969.0,
+hate,4549,1,0,0,455.0,910,3184.0,
+youtube,3190,0,0,0,,3190,,

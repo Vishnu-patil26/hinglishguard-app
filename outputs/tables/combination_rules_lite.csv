@@ -1,0 +1,4 @@
+rule,auroc_dev,auroc_test,review,block,test_review_precision,test_review_recall,test_block_precision,test_block_recall,youtube_positive_flagged_at_review,youtube_all_flagged_at_review
+max,0.7319,0.7436,0.5,0.95,0.5299,0.8613,0.7953,0.3226,0.5206,0.5589
+median,0.731,0.733,0.4,0.65,0.5918,0.6962,0.7809,0.2858,0.1853,0.2448
+mean,0.7443,0.7495,0.4,0.65,0.5718,0.7962,0.7854,0.2934,0.289,0.353

@@ -1,0 +1,5 @@
+group,n,flagged_for_review,blocked,mean_toxicity
+all comments,3190,0.353,0.0107,0.3515
+human says negative,1427,0.4338,0.0196,0.3824
+human says neutral,770,0.2857,0.0052,0.3311
+human says positive,993,0.289,0.002,0.323

@@ -1,0 +1,6 @@
+,sentiment,aggression,offensive,hate,youtube
+sentiment,19278,1,0,0,3
+aggression,1,16471,1,0,3
+offensive,0,1,2813,0,0
+hate,0,0,0,4549,0
+youtube,3,3,0,0,3170

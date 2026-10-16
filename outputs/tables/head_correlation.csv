@@ -1,0 +1,25 @@
+target,a,b,spearman
+TRAC Facebook,aggression,sentiment,0.8754
+TRAC Facebook,aggression,offensive,0.8544
+TRAC Facebook,aggression,hate,0.6497
+TRAC Facebook,offensive,sentiment,0.8432
+TRAC Facebook,hate,sentiment,0.7544
+TRAC Facebook,hate,offensive,0.5571
+TRAC Twitter,aggression,sentiment,0.9155
+TRAC Twitter,aggression,offensive,0.7029
+TRAC Twitter,aggression,hate,0.5637
+TRAC Twitter,offensive,sentiment,0.5645
+TRAC Twitter,hate,sentiment,0.5503
+TRAC Twitter,hate,offensive,0.2873
+HOT tweets,aggression,sentiment,0.9636
+HOT tweets,aggression,offensive,0.8233
+HOT tweets,aggression,hate,0.6825
+HOT tweets,offensive,sentiment,0.7751
+HOT tweets,hate,sentiment,0.7674
+HOT tweets,hate,offensive,0.5677
+Bohra tweets,aggression,sentiment,0.9082
+Bohra tweets,aggression,offensive,0.9097
+Bohra tweets,aggression,hate,0.6075
+Bohra tweets,offensive,sentiment,0.8114
+Bohra tweets,hate,sentiment,0.7358
+Bohra tweets,hate,offensive,0.5409

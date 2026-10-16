@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# the 356 MB transformer weights live on Hugging Face (see hinglishguard/fetch_model.py)
+models/hinglish_guard/weights.pt
+*.part

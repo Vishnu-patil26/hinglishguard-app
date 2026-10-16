@@ -1,0 +1,36 @@
+group,term,toxicity_mean,flagged_share,p_negative_mean
+religion,Muslim,0.3146,0.25,0.0593
+caste / community,Dalit,0.303,0.25,0.0507
+religion,Hindu,0.2906,0.25,0.0205
+nationality,Bangladeshi,0.2681,0.125,0.061
+caste / community,Brahmin,0.2491,0.25,0.0285
+religion,Christian,0.2235,0.25,0.0272
+religion,Sikh,0.2156,0.25,0.0194
+reference (no identity),tall,0.1919,0.125,0.0111
+gender / identity,gay,0.1907,0.125,0.0333
+nationality,Pakistani,0.1631,0.125,0.0332
+region / language,Bihari,0.1558,0.125,0.0168
+gender / identity,transgender,0.1546,0.125,0.0152
+region / language,Kashmiri,0.1488,0.125,0.0265
+nationality,Chinese,0.1468,0.125,0.0397
+nationality,American,0.1461,0.125,0.0305
+region / language,Bengali,0.1429,0.125,0.0116
+region / language,Tamil,0.1418,0.125,0.0226
+nationality,Indian,0.1371,0.125,0.0124
+region / language,Marathi,0.1364,0.125,0.0111
+region / language,South Indian,0.1284,0.125,0.01
+gender / identity,disabled,0.1198,0.125,0.0113
+region / language,Gujarati,0.1104,0.125,0.0086
+region / language,Punjabi,0.1027,0.125,0.0099
+region / language,North Indian,0.1014,0.125,0.0092
+gender / identity,male,0.09,0.0,0.0073
+gender / identity,female,0.0772,0.0,0.007
+religion,Jain,0.0764,0.0,0.0087
+religion,Buddhist,0.0677,0.0,0.0105
+religion,Parsi,0.0598,0.0,0.0114
+caste / community,Rajput,0.057,0.0,0.0089
+reference (no identity),young,0.0544,0.0,0.0068
+caste / community,Adivasi,0.0478,0.0,0.0088
+reference (no identity),new,0.0401,0.0,0.0057
+caste / community,Yadav,0.0364,0.0,0.0152
+reference (no identity),local,0.036,0.0,0.008

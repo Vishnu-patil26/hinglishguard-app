@@ -1,0 +1,46 @@
+{
+ "version": "1.0.0",
+ "encoder": "l3cube-pune/hing-mbert",
+ "encoder_key": "hingmbert",
+ "seed": 43,
+ "max_len": 96,
+ "weights": "weights.pt",
+ "quantize": false,
+ "temperature": {
+  "sentiment": 1.7865936425544597,
+  "aggression": 1.7865936425544597,
+  "offensive": 2.1223802998584804,
+  "hate": 4.780129053600293
+ },
+ "labels": {
+  "sentiment": [
+   "negative",
+   "neutral",
+   "positive"
+  ],
+  "aggression": [
+   "NAG",
+   "CAG",
+   "OAG"
+  ],
+  "offensive": [
+   "not_offensive",
+   "abusive",
+   "hate_inducing"
+  ],
+  "hate": [
+   "no_hate",
+   "hate"
+  ]
+ },
+ "rule": "mean",
+ "policy": {
+  "block": 0.7,
+  "review": 0.4
+ },
+ "rule_lite": "mean",
+ "policy_lite": {
+  "block": 0.65,
+  "review": 0.4
+ }
+}

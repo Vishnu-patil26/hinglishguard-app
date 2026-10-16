@@ -1,0 +1,14 @@
+[server]
+headless = true
+fileWatcherType = "none"
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#2a78d6"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"

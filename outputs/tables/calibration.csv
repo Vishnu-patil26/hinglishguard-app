@@ -1,0 +1,5 @@
+task,temperature,ece_raw,ece_calibrated
+sentiment,1.7866,0.0849,0.0504
+aggression,1.7866,0.095,0.0578
+offensive,2.1224,0.1052,0.0453
+hate,4.7801,0.2308,0.0187

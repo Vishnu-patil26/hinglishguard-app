@@ -1,0 +1,25 @@
+{
+ "rule": "mean",
+ "block": 0.7,
+ "review": 0.4,
+ "auroc_test": 0.8046879902863613,
+ "per_dataset_auroc_test": {
+  "aggression": 0.8158598974992731,
+  "offensive": 0.9401895206243032,
+  "hate": 0.6838401253918496
+ },
+ "test_block": {
+  "precision": 0.8120649651972158,
+  "recall": 0.330188679245283,
+  "f1": 0.4694835680751174,
+  "false_positive_rate": 0.05856832971800434,
+  "flagged_share": 0.1764224314367581
+ },
+ "test_review": {
+  "precision": 0.665587044534413,
+  "recall": 0.7754716981132076,
+  "f1": 0.7163398692810458,
+  "false_positive_rate": 0.29862617498192334,
+  "flagged_share": 0.5055259926320098
+ }
+}

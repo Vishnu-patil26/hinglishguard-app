@@ -1,0 +1,10 @@
+head,aggression_label,mean_score
+offensive,NAG,0.0826
+offensive,CAG,0.178
+offensive,OAG,0.4791
+hate,NAG,0.1029
+hate,CAG,0.1939
+hate,OAG,0.3986
+sentiment,NAG,0.0915
+sentiment,CAG,0.2525
+sentiment,OAG,0.5333

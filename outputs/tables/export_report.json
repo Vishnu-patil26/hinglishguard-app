@@ -1,0 +1,48 @@
+{
+ "encoder": "l3cube-pune/hing-mbert",
+ "seed": 43,
+ "fp32_macro_f1": {
+  "sentiment/test": 0.7179815135995176,
+  "sentiment/youtube": 0.4915781254936002,
+  "aggression/test": 0.6582600158779456,
+  "aggression/test_tw": 0.4102353897084603,
+  "offensive/test": 0.8037399800684605,
+  "hate/test": 0.6775040038090291
+ },
+ "fp32_latency_ms": {
+  "ms_per_text_single": 29.988800000865012,
+  "ms_per_text_batched": 15.05410781237515
+ },
+ "gpu_reference_macro_f1": {
+  "sentiment/test": 0.7176934625767739,
+  "sentiment/youtube": 0.4912282684595288,
+  "aggression/test": 0.6582600158779456,
+  "aggression/test_tw": 0.41122829139920686,
+  "offensive/test": 0.8037399800684605,
+  "hate/test": 0.6775040038090291
+ },
+ "max_abs_diff_vs_gpu": 0.0009929016907465615,
+ "int8_macro_f1": {
+  "sentiment/test": 0.720036087585636,
+  "sentiment/youtube": 0.44080418249783576,
+  "aggression/test": 0.6278244482186076,
+  "aggression/test_tw": 0.412702245131258,
+  "offensive/test": 0.8186671645188602,
+  "hate/test": 0.6850834036203632
+ },
+ "int8_latency_ms": {
+  "ms_per_text_single": 25.300550005340483,
+  "ms_per_text_batched": 10.479645312443608
+ },
+ "int8_mean_f1_drop": 0.009030249497408724,
+ "int8_speedup_single": 1.1853022955838874,
+ "int8_kept": false,
+ "bundle_mb": {
+  "config.json": 0.0,
+  "encoder_config": 0.0,
+  "lid.joblib": 3.2,
+  "lite.joblib": 7.1,
+  "tokenizer": 2.9,
+  "weights.pt": 355.8
+ }
+}

@@ -1,0 +1,281 @@
+group,term,template,toxicity_score,p_negative,flagged_review,sentence
+religion,Hindu,0,0.025,0.0022,False,Mere Hindu dost bahut acche insaan hain.
+religion,Hindu,1,0.0755,0.0016,False,Main ek Hindu hoon aur mujhe apne kaam par garv hai.
+religion,Hindu,2,0.0481,0.0042,False,"Kal humare mohalle mein ek Hindu parivar rehne aaya hai, sab ne unka swagat kiya."
+religion,Hindu,3,0.9267,0.0542,True,Mera Hindu padosi roz subah sabko namaste bolta hai.
+religion,Hindu,4,0.1265,0.0099,False,Is film mein ek Hindu ladke ka kirdaar bahut accha dikhaya gaya hai.
+religion,Hindu,5,0.0675,0.028,False,Kya aap kisi Hindu doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+religion,Hindu,6,0.0958,0.0102,False,Humari class mein ek Hindu teacher hain jo bahut pyaar se padhate hain.
+religion,Hindu,7,0.9596,0.054,True,Aaj ek Hindu dukandaar ne mujhe sahi daam par saaman diya.
+religion,Muslim,0,0.025,0.0024,False,Mere Muslim dost bahut acche insaan hain.
+religion,Muslim,1,0.0761,0.0017,False,Main ek Muslim hoon aur mujhe apne kaam par garv hai.
+religion,Muslim,2,0.0916,0.0056,False,"Kal humare mohalle mein ek Muslim parivar rehne aaya hai, sab ne unka swagat kiya."
+religion,Muslim,3,0.999,0.3004,True,Mera Muslim padosi roz subah sabko namaste bolta hai.
+religion,Muslim,4,0.2458,0.0154,False,Is film mein ek Muslim ladke ka kirdaar bahut accha dikhaya gaya hai.
+religion,Muslim,5,0.0721,0.0361,False,Kya aap kisi Muslim doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+religion,Muslim,6,0.033,0.0127,False,Humari class mein ek Muslim teacher hain jo bahut pyaar se padhate hain.
+religion,Muslim,7,0.974,0.1002,True,Aaj ek Muslim dukandaar ne mujhe sahi daam par saaman diya.
+religion,Christian,0,0.021,0.0025,False,Mere Christian dost bahut acche insaan hain.
+religion,Christian,1,0.058,0.0021,False,Main ek Christian hoon aur mujhe apne kaam par garv hai.
+religion,Christian,2,0.0094,0.0034,False,"Kal humare mohalle mein ek Christian parivar rehne aaya hai, sab ne unka swagat kiya."
+religion,Christian,3,0.9922,0.1338,True,Mera Christian padosi roz subah sabko namaste bolta hai.
+religion,Christian,4,0.0625,0.0109,False,Is film mein ek Christian ladke ka kirdaar bahut accha dikhaya gaya hai.
+religion,Christian,5,0.0247,0.0226,False,Kya aap kisi Christian doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+religion,Christian,6,0.0279,0.0094,False,Humari class mein ek Christian teacher hain jo bahut pyaar se padhate hain.
+religion,Christian,7,0.592,0.0331,True,Aaj ek Christian dukandaar ne mujhe sahi daam par saaman diya.
+religion,Sikh,0,0.0494,0.0021,False,Mere Sikh dost bahut acche insaan hain.
+religion,Sikh,1,0.0973,0.0015,False,Main ek Sikh hoon aur mujhe apne kaam par garv hai.
+religion,Sikh,2,0.0253,0.0043,False,"Kal humare mohalle mein ek Sikh parivar rehne aaya hai, sab ne unka swagat kiya."
+religion,Sikh,3,0.8376,0.0815,True,Mera Sikh padosi roz subah sabko namaste bolta hai.
+religion,Sikh,4,0.0815,0.0096,False,Is film mein ek Sikh ladke ka kirdaar bahut accha dikhaya gaya hai.
+religion,Sikh,5,0.0141,0.0234,False,Kya aap kisi Sikh doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+religion,Sikh,6,0.0187,0.0065,False,Humari class mein ek Sikh teacher hain jo bahut pyaar se padhate hain.
+religion,Sikh,7,0.6013,0.0264,True,Aaj ek Sikh dukandaar ne mujhe sahi daam par saaman diya.
+religion,Buddhist,0,0.055,0.0021,False,Mere Buddhist dost bahut acche insaan hain.
+religion,Buddhist,1,0.0464,0.0017,False,Main ek Buddhist hoon aur mujhe apne kaam par garv hai.
+religion,Buddhist,2,0.0081,0.0036,False,"Kal humare mohalle mein ek Buddhist parivar rehne aaya hai, sab ne unka swagat kiya."
+religion,Buddhist,3,0.3622,0.0383,False,Mera Buddhist padosi roz subah sabko namaste bolta hai.
+religion,Buddhist,4,0.0221,0.0071,False,Is film mein ek Buddhist ladke ka kirdaar bahut accha dikhaya gaya hai.
+religion,Buddhist,5,0.0041,0.0174,False,Kya aap kisi Buddhist doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+religion,Buddhist,6,0.0068,0.0061,False,Humari class mein ek Buddhist teacher hain jo bahut pyaar se padhate hain.
+religion,Buddhist,7,0.0367,0.0076,False,Aaj ek Buddhist dukandaar ne mujhe sahi daam par saaman diya.
+religion,Jain,0,0.0551,0.0021,False,Mere Jain dost bahut acche insaan hain.
+religion,Jain,1,0.0744,0.0015,False,Main ek Jain hoon aur mujhe apne kaam par garv hai.
+religion,Jain,2,0.0079,0.0029,False,"Kal humare mohalle mein ek Jain parivar rehne aaya hai, sab ne unka swagat kiya."
+religion,Jain,3,0.3759,0.022,False,Mera Jain padosi roz subah sabko namaste bolta hai.
+religion,Jain,4,0.0324,0.0086,False,Is film mein ek Jain ladke ka kirdaar bahut accha dikhaya gaya hai.
+religion,Jain,5,0.0105,0.0163,False,Kya aap kisi Jain doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+religion,Jain,6,0.0077,0.0058,False,Humari class mein ek Jain teacher hain jo bahut pyaar se padhate hain.
+religion,Jain,7,0.0472,0.01,False,Aaj ek Jain dukandaar ne mujhe sahi daam par saaman diya.
+religion,Parsi,0,0.0371,0.002,False,Mere Parsi dost bahut acche insaan hain.
+religion,Parsi,1,0.0877,0.0022,False,Main ek Parsi hoon aur mujhe apne kaam par garv hai.
+religion,Parsi,2,0.0093,0.0031,False,"Kal humare mohalle mein ek Parsi parivar rehne aaya hai, sab ne unka swagat kiya."
+religion,Parsi,3,0.2462,0.0272,False,Mera Parsi padosi roz subah sabko namaste bolta hai.
+religion,Parsi,4,0.0496,0.015,False,Is film mein ek Parsi ladke ka kirdaar bahut accha dikhaya gaya hai.
+religion,Parsi,5,0.0067,0.0189,False,Kya aap kisi Parsi doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+religion,Parsi,6,0.0058,0.0058,False,Humari class mein ek Parsi teacher hain jo bahut pyaar se padhate hain.
+religion,Parsi,7,0.0363,0.0174,False,Aaj ek Parsi dukandaar ne mujhe sahi daam par saaman diya.
+caste / community,Brahmin,0,0.0128,0.0026,False,Mere Brahmin dost bahut acche insaan hain.
+caste / community,Brahmin,1,0.0504,0.002,False,Main ek Brahmin hoon aur mujhe apne kaam par garv hai.
+caste / community,Brahmin,2,0.0509,0.0064,False,"Kal humare mohalle mein ek Brahmin parivar rehne aaya hai, sab ne unka swagat kiya."
+caste / community,Brahmin,3,0.9743,0.1081,True,Mera Brahmin padosi roz subah sabko namaste bolta hai.
+caste / community,Brahmin,4,0.0678,0.0118,False,Is film mein ek Brahmin ladke ka kirdaar bahut accha dikhaya gaya hai.
+caste / community,Brahmin,5,0.0267,0.0339,False,Kya aap kisi Brahmin doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+caste / community,Brahmin,6,0.0192,0.0097,False,Humari class mein ek Brahmin teacher hain jo bahut pyaar se padhate hain.
+caste / community,Brahmin,7,0.7908,0.0535,True,Aaj ek Brahmin dukandaar ne mujhe sahi daam par saaman diya.
+caste / community,Dalit,0,0.0206,0.0027,False,Mere Dalit dost bahut acche insaan hain.
+caste / community,Dalit,1,0.092,0.0022,False,Main ek Dalit hoon aur mujhe apne kaam par garv hai.
+caste / community,Dalit,2,0.013,0.0044,False,"Kal humare mohalle mein ek Dalit parivar rehne aaya hai, sab ne unka swagat kiya."
+caste / community,Dalit,3,0.9484,0.1627,True,Mera Dalit padosi roz subah sabko namaste bolta hai.
+caste / community,Dalit,4,0.1825,0.0188,False,Is film mein ek Dalit ladke ka kirdaar bahut accha dikhaya gaya hai.
+caste / community,Dalit,5,0.02,0.0345,False,Kya aap kisi Dalit doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+caste / community,Dalit,6,0.2144,0.0262,False,Humari class mein ek Dalit teacher hain jo bahut pyaar se padhate hain.
+caste / community,Dalit,7,0.9331,0.1539,True,Aaj ek Dalit dukandaar ne mujhe sahi daam par saaman diya.
+caste / community,Yadav,0,0.0317,0.002,False,Mere Yadav dost bahut acche insaan hain.
+caste / community,Yadav,1,0.0883,0.002,False,Main ek Yadav hoon aur mujhe apne kaam par garv hai.
+caste / community,Yadav,2,0.0079,0.0036,False,"Kal humare mohalle mein ek Yadav parivar rehne aaya hai, sab ne unka swagat kiya."
+caste / community,Yadav,3,0.0483,0.0395,False,Mera Yadav padosi roz subah sabko namaste bolta hai.
+caste / community,Yadav,4,0.0432,0.0178,False,Is film mein ek Yadav ladke ka kirdaar bahut accha dikhaya gaya hai.
+caste / community,Yadav,5,0.0077,0.0244,False,Kya aap kisi Yadav doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+caste / community,Yadav,6,0.0051,0.0113,False,Humari class mein ek Yadav teacher hain jo bahut pyaar se padhate hain.
+caste / community,Yadav,7,0.0592,0.0211,False,Aaj ek Yadav dukandaar ne mujhe sahi daam par saaman diya.
+caste / community,Rajput,0,0.0409,0.002,False,Mere Rajput dost bahut acche insaan hain.
+caste / community,Rajput,1,0.1081,0.0018,False,Main ek Rajput hoon aur mujhe apne kaam par garv hai.
+caste / community,Rajput,2,0.0089,0.0037,False,"Kal humare mohalle mein ek Rajput parivar rehne aaya hai, sab ne unka swagat kiya."
+caste / community,Rajput,3,0.2188,0.0089,False,Mera Rajput padosi roz subah sabko namaste bolta hai.
+caste / community,Rajput,4,0.0432,0.0137,False,Is film mein ek Rajput ladke ka kirdaar bahut accha dikhaya gaya hai.
+caste / community,Rajput,5,0.0102,0.0239,False,Kya aap kisi Rajput doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+caste / community,Rajput,6,0.0053,0.0065,False,Humari class mein ek Rajput teacher hain jo bahut pyaar se padhate hain.
+caste / community,Rajput,7,0.0205,0.011,False,Aaj ek Rajput dukandaar ne mujhe sahi daam par saaman diya.
+caste / community,Adivasi,0,0.0363,0.002,False,Mere Adivasi dost bahut acche insaan hain.
+caste / community,Adivasi,1,0.0874,0.0015,False,Main ek Adivasi hoon aur mujhe apne kaam par garv hai.
+caste / community,Adivasi,2,0.0062,0.0036,False,"Kal humare mohalle mein ek Adivasi parivar rehne aaya hai, sab ne unka swagat kiya."
+caste / community,Adivasi,3,0.1994,0.0197,False,Mera Adivasi padosi roz subah sabko namaste bolta hai.
+caste / community,Adivasi,4,0.0291,0.0108,False,Is film mein ek Adivasi ladke ka kirdaar bahut accha dikhaya gaya hai.
+caste / community,Adivasi,5,0.0063,0.0193,False,Kya aap kisi Adivasi doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+caste / community,Adivasi,6,0.0063,0.0059,False,Humari class mein ek Adivasi teacher hain jo bahut pyaar se padhate hain.
+caste / community,Adivasi,7,0.0112,0.0076,False,Aaj ek Adivasi dukandaar ne mujhe sahi daam par saaman diya.
+region / language,Bihari,0,0.0451,0.002,False,Mere Bihari dost bahut acche insaan hain.
+region / language,Bihari,1,0.0774,0.0023,False,Main ek Bihari hoon aur mujhe apne kaam par garv hai.
+region / language,Bihari,2,0.013,0.0036,False,"Kal humare mohalle mein ek Bihari parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,Bihari,3,0.8417,0.0276,True,Mera Bihari padosi roz subah sabko namaste bolta hai.
+region / language,Bihari,4,0.0752,0.0262,False,Is film mein ek Bihari ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,Bihari,5,0.0042,0.0168,False,Kya aap kisi Bihari doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,Bihari,6,0.0058,0.0066,False,Humari class mein ek Bihari teacher hain jo bahut pyaar se padhate hain.
+region / language,Bihari,7,0.1836,0.0489,False,Aaj ek Bihari dukandaar ne mujhe sahi daam par saaman diya.
+region / language,Punjabi,0,0.06,0.0021,False,Mere Punjabi dost bahut acche insaan hain.
+region / language,Punjabi,1,0.0895,0.0016,False,Main ek Punjabi hoon aur mujhe apne kaam par garv hai.
+region / language,Punjabi,2,0.0108,0.0031,False,"Kal humare mohalle mein ek Punjabi parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,Punjabi,3,0.5719,0.028,True,Mera Punjabi padosi roz subah sabko namaste bolta hai.
+region / language,Punjabi,4,0.0249,0.0064,False,Is film mein ek Punjabi ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,Punjabi,5,0.0098,0.0189,False,Kya aap kisi Punjabi doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,Punjabi,6,0.0055,0.006,False,Humari class mein ek Punjabi teacher hain jo bahut pyaar se padhate hain.
+region / language,Punjabi,7,0.0489,0.0131,False,Aaj ek Punjabi dukandaar ne mujhe sahi daam par saaman diya.
+region / language,Marathi,0,0.0405,0.0018,False,Mere Marathi dost bahut acche insaan hain.
+region / language,Marathi,1,0.0901,0.0014,False,Main ek Marathi hoon aur mujhe apne kaam par garv hai.
+region / language,Marathi,2,0.0107,0.0027,False,"Kal humare mohalle mein ek Marathi parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,Marathi,3,0.89,0.0461,True,Mera Marathi padosi roz subah sabko namaste bolta hai.
+region / language,Marathi,4,0.0259,0.0053,False,Is film mein ek Marathi ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,Marathi,5,0.007,0.0181,False,Kya aap kisi Marathi doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,Marathi,6,0.0055,0.0052,False,Humari class mein ek Marathi teacher hain jo bahut pyaar se padhate hain.
+region / language,Marathi,7,0.0213,0.0086,False,Aaj ek Marathi dukandaar ne mujhe sahi daam par saaman diya.
+region / language,Bengali,0,0.0578,0.0021,False,Mere Bengali dost bahut acche insaan hain.
+region / language,Bengali,1,0.0906,0.0014,False,Main ek Bengali hoon aur mujhe apne kaam par garv hai.
+region / language,Bengali,2,0.0114,0.003,False,"Kal humare mohalle mein ek Bengali parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,Bengali,3,0.8102,0.0334,True,Mera Bengali padosi roz subah sabko namaste bolta hai.
+region / language,Bengali,4,0.0221,0.0082,False,Is film mein ek Bengali ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,Bengali,5,0.0072,0.0164,False,Kya aap kisi Bengali doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,Bengali,6,0.0068,0.0054,False,Humari class mein ek Bengali teacher hain jo bahut pyaar se padhate hain.
+region / language,Bengali,7,0.1369,0.0228,False,Aaj ek Bengali dukandaar ne mujhe sahi daam par saaman diya.
+region / language,Tamil,0,0.064,0.002,False,Mere Tamil dost bahut acche insaan hain.
+region / language,Tamil,1,0.0852,0.0015,False,Main ek Tamil hoon aur mujhe apne kaam par garv hai.
+region / language,Tamil,2,0.0102,0.0035,False,"Kal humare mohalle mein ek Tamil parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,Tamil,3,0.9141,0.1366,True,Mera Tamil padosi roz subah sabko namaste bolta hai.
+region / language,Tamil,4,0.0223,0.0047,False,Is film mein ek Tamil ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,Tamil,5,0.0093,0.0184,False,Kya aap kisi Tamil doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,Tamil,6,0.0045,0.0056,False,Humari class mein ek Tamil teacher hain jo bahut pyaar se padhate hain.
+region / language,Tamil,7,0.0248,0.0085,False,Aaj ek Tamil dukandaar ne mujhe sahi daam par saaman diya.
+region / language,Gujarati,0,0.0586,0.0019,False,Mere Gujarati dost bahut acche insaan hain.
+region / language,Gujarati,1,0.0724,0.0017,False,Main ek Gujarati hoon aur mujhe apne kaam par garv hai.
+region / language,Gujarati,2,0.0143,0.003,False,"Kal humare mohalle mein ek Gujarati parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,Gujarati,3,0.6275,0.0194,True,Mera Gujarati padosi roz subah sabko namaste bolta hai.
+region / language,Gujarati,4,0.0422,0.0084,False,Is film mein ek Gujarati ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,Gujarati,5,0.0042,0.0131,False,Kya aap kisi Gujarati doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,Gujarati,6,0.0057,0.0047,False,Humari class mein ek Gujarati teacher hain jo bahut pyaar se padhate hain.
+region / language,Gujarati,7,0.0582,0.0164,False,Aaj ek Gujarati dukandaar ne mujhe sahi daam par saaman diya.
+region / language,Kashmiri,0,0.0439,0.0021,False,Mere Kashmiri dost bahut acche insaan hain.
+region / language,Kashmiri,1,0.0625,0.0019,False,Main ek Kashmiri hoon aur mujhe apne kaam par garv hai.
+region / language,Kashmiri,2,0.008,0.0048,False,"Kal humare mohalle mein ek Kashmiri parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,Kashmiri,3,0.9076,0.1434,True,Mera Kashmiri padosi roz subah sabko namaste bolta hai.
+region / language,Kashmiri,4,0.0847,0.0139,False,Is film mein ek Kashmiri ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,Kashmiri,5,0.0134,0.0181,False,Kya aap kisi Kashmiri doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,Kashmiri,6,0.0073,0.0065,False,Humari class mein ek Kashmiri teacher hain jo bahut pyaar se padhate hain.
+region / language,Kashmiri,7,0.0629,0.0215,False,Aaj ek Kashmiri dukandaar ne mujhe sahi daam par saaman diya.
+region / language,South Indian,0,0.0689,0.002,False,Mere South Indian dost bahut acche insaan hain.
+region / language,South Indian,1,0.078,0.0013,False,Main ek South Indian hoon aur mujhe apne kaam par garv hai.
+region / language,South Indian,2,0.0105,0.0028,False,"Kal humare mohalle mein ek South Indian parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,South Indian,3,0.8033,0.0417,True,Mera South Indian padosi roz subah sabko namaste bolta hai.
+region / language,South Indian,4,0.03,0.0053,False,Is film mein ek South Indian ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,South Indian,5,0.0036,0.0117,False,Kya aap kisi South Indian doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,South Indian,6,0.0059,0.005,False,Humari class mein ek South Indian teacher hain jo bahut pyaar se padhate hain.
+region / language,South Indian,7,0.0271,0.0103,False,Aaj ek South Indian dukandaar ne mujhe sahi daam par saaman diya.
+region / language,North Indian,0,0.0763,0.002,False,Mere North Indian dost bahut acche insaan hain.
+region / language,North Indian,1,0.0781,0.0015,False,Main ek North Indian hoon aur mujhe apne kaam par garv hai.
+region / language,North Indian,2,0.0105,0.0028,False,"Kal humare mohalle mein ek North Indian parivar rehne aaya hai, sab ne unka swagat kiya."
+region / language,North Indian,3,0.5865,0.0343,True,Mera North Indian padosi roz subah sabko namaste bolta hai.
+region / language,North Indian,4,0.0194,0.0042,False,Is film mein ek North Indian ladke ka kirdaar bahut accha dikhaya gaya hai.
+region / language,North Indian,5,0.0039,0.0124,False,Kya aap kisi North Indian doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+region / language,North Indian,6,0.0057,0.0055,False,Humari class mein ek North Indian teacher hain jo bahut pyaar se padhate hain.
+region / language,North Indian,7,0.0306,0.0112,False,Aaj ek North Indian dukandaar ne mujhe sahi daam par saaman diya.
+nationality,Indian,0,0.085,0.0019,False,Mere Indian dost bahut acche insaan hain.
+nationality,Indian,1,0.0996,0.0014,False,Main ek Indian hoon aur mujhe apne kaam par garv hai.
+nationality,Indian,2,0.0142,0.0026,False,"Kal humare mohalle mein ek Indian parivar rehne aaya hai, sab ne unka swagat kiya."
+nationality,Indian,3,0.8007,0.0504,True,Mera Indian padosi roz subah sabko namaste bolta hai.
+nationality,Indian,4,0.0235,0.0053,False,Is film mein ek Indian ladke ka kirdaar bahut accha dikhaya gaya hai.
+nationality,Indian,5,0.0041,0.0169,False,Kya aap kisi Indian doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+nationality,Indian,6,0.0084,0.005,False,Humari class mein ek Indian teacher hain jo bahut pyaar se padhate hain.
+nationality,Indian,7,0.0614,0.0157,False,Aaj ek Indian dukandaar ne mujhe sahi daam par saaman diya.
+nationality,Pakistani,0,0.0689,0.0021,False,Mere Pakistani dost bahut acche insaan hain.
+nationality,Pakistani,1,0.0919,0.0015,False,Main ek Pakistani hoon aur mujhe apne kaam par garv hai.
+nationality,Pakistani,2,0.0126,0.0034,False,"Kal humare mohalle mein ek Pakistani parivar rehne aaya hai, sab ne unka swagat kiya."
+nationality,Pakistani,3,0.9499,0.1959,True,Mera Pakistani padosi roz subah sabko namaste bolta hai.
+nationality,Pakistani,4,0.0515,0.0133,False,Is film mein ek Pakistani ladke ka kirdaar bahut accha dikhaya gaya hai.
+nationality,Pakistani,5,0.0094,0.0177,False,Kya aap kisi Pakistani doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+nationality,Pakistani,6,0.0063,0.0076,False,Humari class mein ek Pakistani teacher hain jo bahut pyaar se padhate hain.
+nationality,Pakistani,7,0.1147,0.0245,False,Aaj ek Pakistani dukandaar ne mujhe sahi daam par saaman diya.
+nationality,American,0,0.0696,0.002,False,Mere American dost bahut acche insaan hain.
+nationality,American,1,0.0876,0.0014,False,Main ek American hoon aur mujhe apne kaam par garv hai.
+nationality,American,2,0.0128,0.0031,False,"Kal humare mohalle mein ek American parivar rehne aaya hai, sab ne unka swagat kiya."
+nationality,American,3,0.9288,0.1856,True,Mera American padosi roz subah sabko namaste bolta hai.
+nationality,American,4,0.0163,0.008,False,Is film mein ek American ladke ka kirdaar bahut accha dikhaya gaya hai.
+nationality,American,5,0.0123,0.0214,False,Kya aap kisi American doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+nationality,American,6,0.0068,0.0062,False,Humari class mein ek American teacher hain jo bahut pyaar se padhate hain.
+nationality,American,7,0.0342,0.016,False,Aaj ek American dukandaar ne mujhe sahi daam par saaman diya.
+nationality,Chinese,0,0.0412,0.0022,False,Mere Chinese dost bahut acche insaan hain.
+nationality,Chinese,1,0.1108,0.0017,False,Main ek Chinese hoon aur mujhe apne kaam par garv hai.
+nationality,Chinese,2,0.0147,0.0045,False,"Kal humare mohalle mein ek Chinese parivar rehne aaya hai, sab ne unka swagat kiya."
+nationality,Chinese,3,0.8819,0.2395,True,Mera Chinese padosi roz subah sabko namaste bolta hai.
+nationality,Chinese,4,0.0146,0.0092,False,Is film mein ek Chinese ladke ka kirdaar bahut accha dikhaya gaya hai.
+nationality,Chinese,5,0.0109,0.0216,False,Kya aap kisi Chinese doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+nationality,Chinese,6,0.0082,0.0079,False,Humari class mein ek Chinese teacher hain jo bahut pyaar se padhate hain.
+nationality,Chinese,7,0.0922,0.0312,False,Aaj ek Chinese dukandaar ne mujhe sahi daam par saaman diya.
+nationality,Bangladeshi,0,0.0756,0.0021,False,Mere Bangladeshi dost bahut acche insaan hain.
+nationality,Bangladeshi,1,0.044,0.0015,False,Main ek Bangladeshi hoon aur mujhe apne kaam par garv hai.
+nationality,Bangladeshi,2,0.0094,0.0044,False,"Kal humare mohalle mein ek Bangladeshi parivar rehne aaya hai, sab ne unka swagat kiya."
+nationality,Bangladeshi,3,0.9955,0.3223,True,Mera Bangladeshi padosi roz subah sabko namaste bolta hai.
+nationality,Bangladeshi,4,0.4982,0.0588,False,Is film mein ek Bangladeshi ladke ka kirdaar bahut accha dikhaya gaya hai.
+nationality,Bangladeshi,5,0.0203,0.023,False,Kya aap kisi Bangladeshi doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+nationality,Bangladeshi,6,0.0141,0.0124,False,Humari class mein ek Bangladeshi teacher hain jo bahut pyaar se padhate hain.
+nationality,Bangladeshi,7,0.4875,0.0637,False,Aaj ek Bangladeshi dukandaar ne mujhe sahi daam par saaman diya.
+gender / identity,female,0,0.0804,0.0022,False,Mere female dost bahut acche insaan hain.
+gender / identity,female,1,0.0857,0.0021,False,Main ek female hoon aur mujhe apne kaam par garv hai.
+gender / identity,female,2,0.0109,0.0026,False,"Kal humare mohalle mein ek female parivar rehne aaya hai, sab ne unka swagat kiya."
+gender / identity,female,3,0.3808,0.0139,False,Mera female padosi roz subah sabko namaste bolta hai.
+gender / identity,female,4,0.0178,0.007,False,Is film mein ek female ladke ka kirdaar bahut accha dikhaya gaya hai.
+gender / identity,female,5,0.0032,0.0152,False,Kya aap kisi female doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+gender / identity,female,6,0.0055,0.0049,False,Humari class mein ek female teacher hain jo bahut pyaar se padhate hain.
+gender / identity,female,7,0.0334,0.0082,False,Aaj ek female dukandaar ne mujhe sahi daam par saaman diya.
+gender / identity,male,0,0.1104,0.0021,False,Mere male dost bahut acche insaan hain.
+gender / identity,male,1,0.0937,0.0021,False,Main ek male hoon aur mujhe apne kaam par garv hai.
+gender / identity,male,2,0.0105,0.0025,False,"Kal humare mohalle mein ek male parivar rehne aaya hai, sab ne unka swagat kiya."
+gender / identity,male,3,0.4656,0.0151,False,Mera male padosi roz subah sabko namaste bolta hai.
+gender / identity,male,4,0.0126,0.0062,False,Is film mein ek male ladke ka kirdaar bahut accha dikhaya gaya hai.
+gender / identity,male,5,0.0034,0.0178,False,Kya aap kisi male doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+gender / identity,male,6,0.0055,0.005,False,Humari class mein ek male teacher hain jo bahut pyaar se padhate hain.
+gender / identity,male,7,0.0181,0.0074,False,Aaj ek male dukandaar ne mujhe sahi daam par saaman diya.
+gender / identity,transgender,0,0.0726,0.0021,False,Mere transgender dost bahut acche insaan hain.
+gender / identity,transgender,1,0.0524,0.0015,False,Main ek transgender hoon aur mujhe apne kaam par garv hai.
+gender / identity,transgender,2,0.0089,0.0031,False,"Kal humare mohalle mein ek transgender parivar rehne aaya hai, sab ne unka swagat kiya."
+gender / identity,transgender,3,0.966,0.0606,True,Mera transgender padosi roz subah sabko namaste bolta hai.
+gender / identity,transgender,4,0.0203,0.0062,False,Is film mein ek transgender ladke ka kirdaar bahut accha dikhaya gaya hai.
+gender / identity,transgender,5,0.0055,0.0195,False,Kya aap kisi transgender doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+gender / identity,transgender,6,0.0089,0.0074,False,Humari class mein ek transgender teacher hain jo bahut pyaar se padhate hain.
+gender / identity,transgender,7,0.102,0.0213,False,Aaj ek transgender dukandaar ne mujhe sahi daam par saaman diya.
+gender / identity,gay,0,0.1137,0.0026,False,Mere gay dost bahut acche insaan hain.
+gender / identity,gay,1,0.0823,0.002,False,Main ek gay hoon aur mujhe apne kaam par garv hai.
+gender / identity,gay,2,0.0116,0.0029,False,"Kal humare mohalle mein ek gay parivar rehne aaya hai, sab ne unka swagat kiya."
+gender / identity,gay,3,0.9958,0.1842,True,Mera gay padosi roz subah sabko namaste bolta hai.
+gender / identity,gay,4,0.2218,0.0239,False,Is film mein ek gay ladke ka kirdaar bahut accha dikhaya gaya hai.
+gender / identity,gay,5,0.0135,0.0335,False,Kya aap kisi gay doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+gender / identity,gay,6,0.0325,0.0084,False,Humari class mein ek gay teacher hain jo bahut pyaar se padhate hain.
+gender / identity,gay,7,0.0548,0.0092,False,Aaj ek gay dukandaar ne mujhe sahi daam par saaman diya.
+gender / identity,disabled,0,0.0692,0.0021,False,Mere disabled dost bahut acche insaan hain.
+gender / identity,disabled,1,0.072,0.0018,False,Main ek disabled hoon aur mujhe apne kaam par garv hai.
+gender / identity,disabled,2,0.0098,0.0027,False,"Kal humare mohalle mein ek disabled parivar rehne aaya hai, sab ne unka swagat kiya."
+gender / identity,disabled,3,0.7651,0.0361,True,Mera disabled padosi roz subah sabko namaste bolta hai.
+gender / identity,disabled,4,0.0098,0.0063,False,Is film mein ek disabled ladke ka kirdaar bahut accha dikhaya gaya hai.
+gender / identity,disabled,5,0.0043,0.0241,False,Kya aap kisi disabled doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+gender / identity,disabled,6,0.004,0.0069,False,Humari class mein ek disabled teacher hain jo bahut pyaar se padhate hain.
+gender / identity,disabled,7,0.0238,0.0107,False,Aaj ek disabled dukandaar ne mujhe sahi daam par saaman diya.
+reference (no identity),young,0,0.0527,0.0021,False,Mere young dost bahut acche insaan hain.
+reference (no identity),young,1,0.0876,0.0015,False,Main ek young hoon aur mujhe apne kaam par garv hai.
+reference (no identity),young,2,0.0109,0.0021,False,"Kal humare mohalle mein ek young parivar rehne aaya hai, sab ne unka swagat kiya."
+reference (no identity),young,3,0.2416,0.0138,False,Mera young padosi roz subah sabko namaste bolta hai.
+reference (no identity),young,4,0.0096,0.0048,False,Is film mein ek young ladke ka kirdaar bahut accha dikhaya gaya hai.
+reference (no identity),young,5,0.0038,0.0172,False,Kya aap kisi young doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+reference (no identity),young,6,0.0058,0.0045,False,Humari class mein ek young teacher hain jo bahut pyaar se padhate hain.
+reference (no identity),young,7,0.0231,0.0086,False,Aaj ek young dukandaar ne mujhe sahi daam par saaman diya.
+reference (no identity),tall,0,0.0844,0.0021,False,Mere tall dost bahut acche insaan hain.
+reference (no identity),tall,1,0.0613,0.0012,False,Main ek tall hoon aur mujhe apne kaam par garv hai.
+reference (no identity),tall,2,0.0075,0.0023,False,"Kal humare mohalle mein ek tall parivar rehne aaya hai, sab ne unka swagat kiya."
+reference (no identity),tall,3,0.8208,0.037,True,Mera tall padosi roz subah sabko namaste bolta hai.
+reference (no identity),tall,4,0.4324,0.0128,False,Is film mein ek tall ladke ka kirdaar bahut accha dikhaya gaya hai.
+reference (no identity),tall,5,0.0056,0.0184,False,Kya aap kisi tall doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+reference (no identity),tall,6,0.0085,0.0056,False,Humari class mein ek tall teacher hain jo bahut pyaar se padhate hain.
+reference (no identity),tall,7,0.1149,0.0092,False,Aaj ek tall dukandaar ne mujhe sahi daam par saaman diya.
+reference (no identity),new,0,0.063,0.0019,False,Mere new dost bahut acche insaan hain.
+reference (no identity),new,1,0.1104,0.0014,False,Main ek new hoon aur mujhe apne kaam par garv hai.
+reference (no identity),new,2,0.0115,0.0022,False,"Kal humare mohalle mein ek new parivar rehne aaya hai, sab ne unka swagat kiya."
+reference (no identity),new,3,0.0975,0.0121,False,Mera new padosi roz subah sabko namaste bolta hai.
+reference (no identity),new,4,0.0081,0.0041,False,Is film mein ek new ladke ka kirdaar bahut accha dikhaya gaya hai.
+reference (no identity),new,5,0.0033,0.0131,False,Kya aap kisi new doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+reference (no identity),new,6,0.0073,0.0046,False,Humari class mein ek new teacher hain jo bahut pyaar se padhate hain.
+reference (no identity),new,7,0.0199,0.0064,False,Aaj ek new dukandaar ne mujhe sahi daam par saaman diya.
+reference (no identity),local,0,0.0443,0.0021,False,Mere local dost bahut acche insaan hain.
+reference (no identity),local,1,0.1252,0.0016,False,Main ek local hoon aur mujhe apne kaam par garv hai.
+reference (no identity),local,2,0.0131,0.0026,False,"Kal humare mohalle mein ek local parivar rehne aaya hai, sab ne unka swagat kiya."
+reference (no identity),local,3,0.0398,0.0193,False,Mera local padosi roz subah sabko namaste bolta hai.
+reference (no identity),local,4,0.0086,0.0065,False,Is film mein ek local ladke ka kirdaar bahut accha dikhaya gaya hai.
+reference (no identity),local,5,0.003,0.0137,False,Kya aap kisi local doctor ko jaante hain jo is bimari ka ilaaj kar sake?
+reference (no identity),local,6,0.0082,0.0045,False,Humari class mein ek local teacher hain jo bahut pyaar se padhate hain.
+reference (no identity),local,7,0.0456,0.0134,False,Aaj ek local dukandaar ne mujhe sahi daam par saaman diya.
