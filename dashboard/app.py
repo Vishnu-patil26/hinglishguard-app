@@ -38,10 +38,16 @@ SAMPLE_FEED = Path(__file__).resolve().parent / "sample_feed.csv"
 # --------------------------------------------------------------------------- shared state
 @st.cache_resource(show_spinner="Loading the model (first time only) ...")
 def get_detector(prefer: str):
-    if prefer == "transformer" and not (BUNDLE / "weights.pt").exists():
-        from hinglishguard.fetch_model import main as fetch_weights   # hosted copy; checksum-verified
-        fetch_weights()
     return I.load(BUNDLE, prefer=prefer)
+
+
+@st.cache_resource(show_spinner="Downloading the transformer model (356 MB, first visit only) ...")
+def ensure_weights() -> bool:
+    """The deployed copy does not ship the weights; fetch the checksum-verified file from Hugging Face once."""
+    if not (BUNDLE / "weights.pt").exists():
+        from hinglishguard.fetch_model import main as fetch_weights
+        fetch_weights()
+    return (BUNDLE / "weights.pt").exists()
 
 
 @st.cache_data
@@ -62,6 +68,7 @@ def bundle_config() -> dict:
 
 
 def sidebar() -> tuple[I.Policy, str]:
+    ensure_weights()
     cfg = bundle_config()
     has_tf = (BUNDLE / "config.json").exists() and (BUNDLE / cfg.get("weights", "weights.pt")).exists()
     with st.sidebar:
